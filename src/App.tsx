@@ -30,7 +30,7 @@ function App() {
   }
 
   return (
-    <Router basename="/Skynet-Language/">
+    <Router>
       <div className="app-container">
         {session && (
           <header className="header">
