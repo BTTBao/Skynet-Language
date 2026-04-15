@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate, Link } from 'react-router-dom';
 import { supabase } from './lib/supabase';
 import Auth from './pages/Auth';
@@ -30,7 +30,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename="/Skynet-Language/">
       <div className="app-container">
         {session && (
           <header className="header">
