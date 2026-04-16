@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
-import { RefreshCw, Play, CheckCircle, XCircle, Layers, Link as LinkIcon, Type, ArrowRight } from 'lucide-react';
+import { RefreshCw, CheckCircle, XCircle, Layers, Link as LinkIcon, Type, ArrowRight } from 'lucide-react';
 
 type GameMode = 'select' | 'typing' | 'flashcard' | 'match';
 
