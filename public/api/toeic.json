@@ -1,0 +1,48 @@
+{
+  "listening": [
+    {
+      "id": "l1",
+      "audio_text": "The train to New York will depart from platform four in five minutes.",
+      "question": "Where is the train going?",
+      "options": ["To platform four", "To New York", "To the station", "To a meeting"],
+      "answer": 1
+    },
+    {
+      "id": "l2",
+      "audio_text": "Please remember to submit your weekly report by Friday afternoon.",
+      "question": "When is the report due?",
+      "options": ["Monday morning", "Friday morning", "Friday afternoon", "Next week"],
+      "answer": 2
+    },
+    {
+      "id": "l3",
+      "audio_text": "Welcome to our annual marketing conference. The first session begins at 9 AM.",
+      "question": "What kind of event is this?",
+      "options": ["A birthday party", "A marketing conference", "A job interview", "A farewell dinner"],
+      "answer": 1
+    }
+  ],
+  "reading": [
+    {
+      "id": "r1",
+      "passage": "Employees must ________ their ID badges at all times while inside the building.",
+      "question": "Select the correct word to fill in the blank:",
+      "options": ["wears", "wearing", "wear", "wore"],
+      "answer": 2
+    },
+    {
+      "id": "r2",
+      "passage": "Due to bad weather, the outdoor concert has been ________ until next week.",
+      "question": "Select the correct word to fill in the blank:",
+      "options": ["postponed", "promoted", "prevented", "predicted"],
+      "answer": 0
+    },
+    {
+      "id": "r3",
+      "passage": "The new manager has very little ________ in dealing with international clients.",
+      "question": "Select the correct word to fill in the blank:",
+      "options": ["experienced", "experience", "experiencing", "experiences"],
+      "answer": 1
+    }
+  ]
+}

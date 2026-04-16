@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "________ the recent economic downturn, the firm has managed to expand its operations overseas.",
+    "options": ["Although", "Despite", "Even though", "Whereas"],
+    "answer": 1,
+    "explanation": "'Despite' cộng với cụm danh từ (the recent economic downturn). Các phương án còn lại đi cùng mệnh đề."
+  },
+  {
+    "id": 2,
+    "question": "Only after the formal contract is signed ________ production on the new assembly line.",
+    "options": ["we will begin", "will we begin", "beginning", "we began"],
+    "answer": 1,
+    "explanation": "Cấu trúc đảo ngữ với 'Only after + clause + trợ động từ + S + V'."
+  },
+  {
+    "id": 3,
+    "question": "The committee members reached a ________ decision regarding the allocation of the annual budget.",
+    "options": ["unanimous", "anonymous", "magnanimous", "synonymous"],
+    "answer": 0,
+    "explanation": "'Unanimous' (nhất trí). 'Anonymous' (vô danh), 'Magnanimous' (hào hiệp), 'Synonymous' (đồng nghĩa)."
+  },
+  {
+    "id": 4,
+    "question": "________ any further information be required, please do not hesitate to contact our support desk.",
+    "options": ["If", "Unless", "Should", "Were"],
+    "answer": 2,
+    "explanation": "Đảo ngữ câu điều kiện loại 1: 'Should + S + V(nguyên thể)' thay cho 'If S happens to V'."
+  },
+  {
+    "id": 5,
+    "question": "Employees are strictly prohibited from ________ confidential client data to third parties.",
+    "options": ["disclose", "disclosure", "disclosing", "disclosed"],
+    "answer": 2,
+    "explanation": "Cấu trúc 'prohibit someone from + V-ing' (ngăn cấm ai làm gì)."
+  },
+  {
+    "id": 6,
+    "question": "The regional manager demanded that all sales reports ________ submitted by 5:00 PM on Friday.",
+    "options": ["are", "be", "will be", "were"],
+    "answer": 1,
+    "explanation": "Cấu trúc giả định (Subjunctive): 'demand that S + V-bare' (động từ nguyên thể không to) => be."
+  },
+  {
+    "id": 7,
+    "question": "Had we known about the software glitch earlier, we ________ the product launch.",
+    "options": ["could have delayed", "delayed", "will delay", "must delay"],
+    "answer": 0,
+    "explanation": "Đảo ngữ câu điều kiện loại 3: 'Had + S + PII, S + would/could + have + PII'."
+  },
+  {
+    "id": 8,
+    "question": "The new marketing campaign is highly ________ of the company's commitment to sustainability.",
+    "options": ["indicate", "indicator", "indicative", "indication"],
+    "answer": 2,
+    "explanation": "Sau động từ to be cần tính từ. 'indicative of' (biểu hiện của)."
+  },
+  {
+    "id": 9,
+    "question": "Neither the supervisors nor the department head ________ satisfied with the revised quarterly targets.",
+    "options": ["are", "is", "were", "have been"],
+    "answer": 1,
+    "explanation": "Với cấu trúc 'Neither A nor B', động từ chia theo danh từ gần nhất (the department head - số ít) => is."
+  },
+  {
+    "id": 10,
+    "question": "Ms. Robertson is the only candidate ________ extensive background in international finance meets our criteria.",
+    "options": ["who", "whom", "whose", "which"],
+    "answer": 2,
+    "explanation": "Cần một đại từ quan hệ chỉ sở hữu 'whose' để thay cho tính từ sở hữu đứng trước danh từ 'background'."
+  },
+  {
+    "id": 11,
+    "question": "The CEO's keynote speech was so inspiring that it elicited a ________ round of applause.",
+    "options": ["spontaneous", "simultaneous", "homogenous", "miscellaneous"],
+    "answer": 0,
+    "explanation": "'Spontaneous' (tự phát, tự nhiên). Lời phát biểu truyền cảm hứng gây ra tràng pháo tay tự nhiên."
+  },
+  {
+    "id": 12,
+    "question": "________ the fact that the budget was heavily cut, the engineering team still completed the project ahead of schedule.",
+    "options": ["Regardless", "Notwithstanding", "Even", "Provide"],
+    "answer": 1,
+    "explanation": "'Notwithstanding' có thể đóng vai trò như giới từ (giống despite, in spite of) đứng trước cụm danh từ."
+  },
+  {
+    "id": 13,
+    "question": "Revenues have grown steadily ________ the acquisition of our primary competitor last year.",
+    "options": ["since", "while", "during", "until"],
+    "answer": 0,
+    "explanation": "Thì hiện tại hoàn thành (have grown) đi kèm mốc thời gian trong quá khứ nên dùng 'since'."
+  },
+  {
+    "id": 14,
+    "question": "The board has ultimately decided to ________ the underperforming subsidiaries to reduce financial liabilities.",
+    "options": ["liquidate", "renovate", "incorporate", "illuminate"],
+    "answer": 0,
+    "explanation": "'Liquidate' (thanh lý). Quyết định thanh lý các công ty con hoạt động kém."
+  },
+  {
+    "id": 15,
+    "question": "________ of the applicants submitted their portfolios before the deadline, which caused significant delays.",
+    "options": ["Almost", "Most", "The most", "Mostly"],
+    "answer": 1,
+    "explanation": "Dùng 'Most of the + noun' (hầu hết). 'Almost' là trạng từ nên không đi trực tiếp với cụm danh từ phía sau."
+  },
+  {
+    "id": 16,
+    "question": "By the time the inspectors arrive next Monday, the facility ________ all safety upgrades.",
+    "options": ["completes", "will complete", "is completing", "will have completed"],
+    "answer": 3,
+    "explanation": "'By the time' + thì hiện tại (chỉ tương lai), mệnh đề chính dùng thì tương lai hoàn thành."
+  },
+  {
+    "id": 17,
+    "question": "Any staff member ________ wishes to participate in the seminar must fill out this registration form.",
+    "options": ["whose", "whom", "who", "they"],
+    "answer": 2,
+    "explanation": "Đại từ quan hệ 'who' làm chủ ngữ cho động từ 'wishes' ở mệnh đề quan hệ."
+  },
+  {
+    "id": 18,
+    "question": "This newly developed adhesive is resilient ________ extreme variations in temperature.",
+    "options": ["with", "for", "against", "to"],
+    "answer": 3,
+    "explanation": "Tính từ 'resilient' đi kèm với giới từ 'to' (có tính đàn hồi/chống chịu với cái gì)."
+  },
+  {
+    "id": 19,
+    "question": "The survey results clearly illustrate that consumers prefer products that are environmentally ________.",
+    "options": ["friendly", "friendliness", "friend", "friendlier"],
+    "answer": 0,
+    "explanation": "Cần tính từ bổ nghĩa cho 'products'. 'environmentally friendly' là cụm thân thiện với môi trường."
+  },
+  {
+    "id": 20,
+    "question": "The new policy ________ restricting employee access to social media sites has sparked minor controversy.",
+    "options": ["pertaining to", "owing to", "in lieu of", "on behalf of"],
+    "answer": 0,
+    "explanation": "'pertaining to' (liên quan đến). Chính sách mới liên quan đến việc hạn chế truy cập..."
+  },
+  {
+    "id": 21,
+    "question": "The consultant recommended that the company ________ its pricing strategy to remain competitive in the market.",
+    "options": ["revisits", "revisit", "revisiting", "will revisit"],
+    "answer": 1,
+    "explanation": "Sau 'recommend that' dùng subjunctive mood: S + V-bare (không chia, không thêm -s hay to)."
+  },
+  {
+    "id": 22,
+    "question": "The merger agreement includes a ________ clause that prevents either party from withdrawing without penalty.",
+    "options": ["binding", "blinding", "minding", "winding"],
+    "answer": 0,
+    "explanation": "'Binding clause' = điều khoản ràng buộc pháp lý. Collocate phổ biến: binding contract/agreement/clause."
+  },
+  {
+    "id": 23,
+    "question": "Scarcely ________ the opening remarks when the fire alarm interrupted the entire ceremony.",
+    "options": ["the director had finished", "had the director finished", "did the director finish", "the director finished"],
+    "answer": 1,
+    "explanation": "Đảo ngữ với 'Scarcely': Scarcely + had + S + PII (thì quá khứ hoàn thành đảo ngữ)."
+  },
+  {
+    "id": 24,
+    "question": "Despite numerous setbacks, the project manager remained ________ in her commitment to meeting the deadline.",
+    "options": ["steadfast", "wavering", "ambiguous", "tentative"],
+    "answer": 0,
+    "explanation": "'Steadfast' = kiên định, vững chắc. Wavering = dao động, ambiguous = mơ hồ, tentative = do dự."
+  },
+  {
+    "id": 25,
+    "question": "The board of directors, together with the executive team, ________ scheduled to convene next Thursday.",
+    "options": ["are", "is", "were", "have been"],
+    "answer": 1,
+    "explanation": "'Together with' không thay đổi chủ ngữ. 'The board of directors' (số ít) → is."
+  },
+  {
+    "id": 26,
+    "question": "Not until the financial disclosures were made public ________ the extent of the losses.",
+    "options": ["shareholders realized", "did shareholders realize", "shareholders did realize", "realized shareholders"],
+    "answer": 1,
+    "explanation": "Đảo ngữ với 'Not until...': Not until clause + did + S + V-bare."
+  },
+  {
+    "id": 27,
+    "question": "The pharmaceutical company is seeking ________ approval before launching the drug in Asian markets.",
+    "options": ["regulatory", "obligatory", "predatory", "preparatory"],
+    "answer": 0,
+    "explanation": "'Regulatory approval' = sự chấp thuận của cơ quan quản lý. Collocate quen thuộc trong ngữ cảnh dược phẩm/kinh doanh."
+  },
+  {
+    "id": 28,
+    "question": "The new equipment, ________ by the engineers last week, has dramatically improved output efficiency.",
+    "options": ["installing", "installed", "to install", "been installed"],
+    "answer": 1,
+    "explanation": "Rút gọn mệnh đề quan hệ bị động: which was installed → installed (past participle)."
+  },
+  {
+    "id": 29,
+    "question": "It is essential that every team leader ________ a progress report to the operations director by Friday.",
+    "options": ["submits", "submitted", "submit", "to submit"],
+    "answer": 2,
+    "explanation": "'It is essential that + S + V-bare' (subjunctive). Không thêm -s, không dùng to-infinitive."
+  },
+  {
+    "id": 30,
+    "question": "The audit revealed several ________ in the company's internal control procedures.",
+    "options": ["deficiencies", "efficiencies", "proficiencies", "sufficiencies"],
+    "answer": 0,
+    "explanation": "'Deficiencies' = những thiếu sót, yếu kém. Efficiencies = hiệu quả, proficiencies = năng lực thành thạo."
+  },
+  {
+    "id": 31,
+    "question": "________ with the client's requirements, the design team produced three alternative proposals.",
+    "options": ["Complied", "Complying", "Having complied", "To comply"],
+    "answer": 2,
+    "explanation": "'Having + PII' (perfect participle) diễn tả hành động hoàn thành trước hành động chính ở mệnh đề sau."
+  },
+  {
+    "id": 32,
+    "question": "The company would not have incurred such heavy losses ________ the unforeseen currency devaluation.",
+    "options": ["except for", "were it not for", "had it not been for", "but for"],
+    "answer": 2,
+    "explanation": "'Had it not been for' = đảo ngữ của 'If it had not been for' (điều kiện loại 3). Phổ biến trong văn viết trang trọng."
+  },
+  {
+    "id": 33,
+    "question": "Analysts believe the current market conditions are ________ to a recovery in the technology sector.",
+    "options": ["conducive", "productive", "exclusive", "constructive"],
+    "answer": 0,
+    "explanation": "'Conducive to' = thuận lợi cho, tạo điều kiện cho. Cấu trúc cố định: conducive to + noun."
+  },
+  {
+    "id": 34,
+    "question": "The employees were notified that ________ they met the quarterly targets, bonuses would be distributed.",
+    "options": ["provided", "unless", "although", "despite"],
+    "answer": 0,
+    "explanation": "'Provided (that)' = miễn là, với điều kiện là. Tương đương 'as long as / on condition that'."
+  },
+  {
+    "id": 35,
+    "question": "The financial data ________ by our analysts is expected to influence the board's final decision.",
+    "options": ["compiling", "is compiled", "compiled", "have compiled"],
+    "answer": 2,
+    "explanation": "Rút gọn mệnh đề quan hệ bị động: which was compiled → compiled. 'Compiled by our analysts' bổ nghĩa cho 'data'."
+  },
+  {
+    "id": 36,
+    "question": "The contract stipulates that all deliverables must meet the client's ________ specifications.",
+    "options": ["stringent", "stringency", "stringently", "stringing"],
+    "answer": 0,
+    "explanation": "'Stringent specifications' = yêu cầu kỹ thuật nghiêm ngặt. Tính từ bổ nghĩa trực tiếp cho danh từ."
+  },
+  {
+    "id": 37,
+    "question": "________ the proposal had been rejected initially, it was later approved after extensive revisions.",
+    "options": ["Even though", "Despite", "In spite", "Regardless"],
+    "answer": 0,
+    "explanation": "'Even though' + mệnh đề (S+V). 'Despite/In spite of' + cụm danh từ. 'Regardless of' + noun."
+  },
+  {
+    "id": 38,
+    "question": "The shareholders voted to ________ the existing dividend policy in light of the strong fiscal results.",
+    "options": ["perpetuate", "terminate", "undermine", "mitigate"],
+    "answer": 0,
+    "explanation": "'Perpetuate' = duy trì, tiếp tục. Kết quả tài chính tốt → tiếp tục chính sách cổ tức hiện tại."
+  },
+  {
+    "id": 39,
+    "question": "No sooner ________ the press conference than reports of the merger spread across all financial news channels.",
+    "options": ["the CEO concluded", "had the CEO concluded", "did the CEO conclude", "the CEO has concluded"],
+    "answer": 1,
+    "explanation": "'No sooner + had + S + PII + than...' — đảo ngữ chuẩn dùng thì quá khứ hoàn thành."
+  },
+  {
+    "id": 40,
+    "question": "The marketing director wants the campaign ________ before the end of the fiscal quarter.",
+    "options": ["launch", "launched", "to launching", "launching"],
+    "answer": 1,
+    "explanation": "'Want + O + PII' (muốn vật gì được thực hiện/hoàn thành). 'The campaign launched' = chiến dịch được khởi động."
+  },
+  {
+    "id": 41,
+    "question": "The terms of the acquisition remain ________ pending final approval from the competition authority.",
+    "options": ["confidential", "credential", "sequential", "deferential"],
+    "answer": 0,
+    "explanation": "'Confidential' = bảo mật, chưa được tiết lộ. Credential = chứng chỉ, sequential = tuần tự."
+  },
+  {
+    "id": 42,
+    "question": "________ Ms. Kim nor her deputy was available to sign the procurement documents on that day.",
+    "options": ["Both", "Either", "Neither", "Not only"],
+    "answer": 2,
+    "explanation": "'Neither A nor B' = không A cũng không B (phủ định cả hai). Động từ chia theo B (gần nhất)."
+  },
+  {
+    "id": 43,
+    "question": "The new product line is expected to ________ significant interest from institutional investors.",
+    "options": ["garner", "squander", "defer", "waive"],
+    "answer": 0,
+    "explanation": "'Garner' = thu hút, tích lũy (sự quan tâm, ủng hộ). 'Garner interest/support' là collocate phổ biến."
+  },
+  {
+    "id": 44,
+    "question": "It was not until the third quarter ________ the company began to see a return on its investment.",
+    "options": ["when", "which", "that", "where"],
+    "answer": 2,
+    "explanation": "Cấu trúc nhấn mạnh 'It was not until... that...' — 'that' là bắt buộc trong cấu trúc này."
+  },
+  {
+    "id": 45,
+    "question": "The CEO's decision to restructure was met with ________ from the majority of senior management.",
+    "options": ["approbation", "apprehension", "appropriation", "approximation"],
+    "answer": 0,
+    "explanation": "'Approbation' = sự tán thành, chấp thuận (formal). Apprehension = lo ngại, appropriation = phân bổ ngân sách."
+  },
+  {
+    "id": 46,
+    "question": "The success of the project depends on ________ all stakeholders are kept informed throughout.",
+    "options": ["whether", "that", "what", "if"],
+    "answer": 0,
+    "explanation": "'Depends on + whether' — không dùng 'if' sau giới từ 'on'. 'Whether' giới thiệu mệnh đề danh từ sau giới từ."
+  },
+  {
+    "id": 47,
+    "question": "The firm's ________ approach to risk management has been credited with averting several major financial crises.",
+    "options": ["prudent", "imprudent", "perfunctory", "arbitrary"],
+    "answer": 0,
+    "explanation": "'Prudent' = thận trọng, khôn ngoan. Imprudent = bất cẩn, perfunctory = qua loa, arbitrary = tùy tiện."
+  },
+  {
+    "id": 48,
+    "question": "Rarely ________ such a high level of collaboration between competing firms in this industry.",
+    "options": ["we have witnessed", "have we witnessed", "we witnessed", "do we witnessed"],
+    "answer": 1,
+    "explanation": "Đảo ngữ với 'Rarely': have + S + PII (hiện tại hoàn thành đảo lên trước chủ ngữ)."
+  },
+  {
+    "id": 49,
+    "question": "The committee is considering ________ additional funds to the infrastructure development project.",
+    "options": ["to allocate", "allocating", "allocate", "allocated"],
+    "answer": 1,
+    "explanation": "'Consider + V-ing'. Sau động từ 'consider' dùng danh động từ, không dùng to-infinitive."
+  },
+  {
+    "id": 50,
+    "question": "The reason the negotiations failed was ________ neither party was willing to make concessions.",
+    "options": ["because of", "that", "due to", "owing to"],
+    "answer": 1,
+    "explanation": "'The reason... was that + clause'. Không dùng 'because' trực tiếp sau 'the reason was' trong văn phong chuẩn."
+  },
+  {
+    "id": 51,
+    "question": "The newly appointed CFO has a ________ track record of turning around financially distressed companies.",
+    "options": ["proven", "provisional", "provocative", "proverbial"],
+    "answer": 0,
+    "explanation": "'Proven track record' = thành tích đã được chứng minh. Collocate cực kỳ phổ biến trong văn phong kinh doanh."
+  },
+  {
+    "id": 52,
+    "question": "The finance team must ensure that all expenditures ________ thoroughly documented before the audit.",
+    "options": ["are", "have", "be", "being"],
+    "answer": 2,
+    "explanation": "'Ensure that + S + be + PII' (subjunctive sau 'ensure'). 'Be' là động từ bare trong mệnh đề giả định."
+  },
+  {
+    "id": 53,
+    "question": "Our overseas partners are ________ to the company's long-term success in emerging markets.",
+    "options": ["integral", "peripheral", "lateral", "nominal"],
+    "answer": 0,
+    "explanation": "'Integral to' = không thể thiếu, cốt lõi. Peripheral = ngoại vi/phụ, nominal = danh nghĩa/nhỏ."
+  },
+  {
+    "id": 54,
+    "question": "________ she may be the most experienced candidate, the hiring committee still opted for an external applicant.",
+    "options": ["Although", "Despite", "However", "Nevertheless"],
+    "answer": 0,
+    "explanation": "'Although + clause (S+V)'. 'Despite' + noun/gerund. 'However/Nevertheless' = trạng từ liên kết, không mở đầu mệnh đề phụ."
+  },
+  {
+    "id": 55,
+    "question": "The latest financial report shows a marked ________ in operating costs compared to the previous fiscal year.",
+    "options": ["attrition", "escalation", "deviation", "retraction"],
+    "answer": 1,
+    "explanation": "'Escalation in costs' = sự leo thang/gia tăng chi phí. Collocate: escalation in/of + cost/price/tension."
+  },
+  {
+    "id": 56,
+    "question": "The consultant suggested ________ the scope of the project before committing additional resources.",
+    "options": ["reassessing", "to reassess", "reassessed", "reassess"],
+    "answer": 0,
+    "explanation": "'Suggest + V-ing'. Động từ 'suggest' không được theo sau trực tiếp bởi to-infinitive."
+  },
+  {
+    "id": 57,
+    "question": "The new trade agreement is expected to ________ barriers that have long hindered cross-border commerce.",
+    "options": ["dismantle", "reinforce", "amplify", "consolidate"],
+    "answer": 0,
+    "explanation": "'Dismantle barriers' = tháo dỡ/loại bỏ rào cản. Reinforce = củng cố (nghĩa ngược lại trong ngữ cảnh này)."
+  },
+  {
+    "id": 58,
+    "question": "The analyst's report, along with the supporting financial statements, ________ forwarded to the board.",
+    "options": ["were", "have been", "was", "are"],
+    "answer": 2,
+    "explanation": "'Along with' không thay đổi chủ ngữ chính. 'The analyst's report' (số ít) → was."
+  },
+  {
+    "id": 59,
+    "question": "The new policy terms were ________ outlined in the memorandum distributed to all department heads.",
+    "options": ["explicitly", "exploitatively", "exponentially", "expeditiously"],
+    "answer": 0,
+    "explanation": "'Explicitly outlined' = được trình bày rõ ràng, minh bạch. Trạng từ phù hợp nhất với 'outlined' trong ngữ cảnh văn phòng."
+  },
+  {
+    "id": 60,
+    "question": "The firm's expansion into Southeast Asia is ________ on securing sufficient capital from existing shareholders.",
+    "options": ["contingent", "reluctant", "dependent", "reliant"],
+    "answer": 0,
+    "explanation": "'Contingent on' = phụ thuộc vào (điều kiện cần thỏa mãn). Khác 'dependent on' ở chỗ 'contingent' nhấn mạnh tính không chắc chắn."
+  },
+  {
+    "id": 61,
+    "question": "The project team has yet ________ a comprehensive risk assessment for the overseas expansion.",
+    "options": ["conducting", "to conduct", "conducted", "conduct"],
+    "answer": 1,
+    "explanation": "'Have yet to + V-bare' = vẫn chưa làm gì. Cấu trúc cố định hay gặp trong văn viết trang trọng."
+  },
+  {
+    "id": 62,
+    "question": "All written correspondence ________ to clients must be reviewed by the legal department before dispatch.",
+    "options": ["sends", "sent", "sending", "to send"],
+    "answer": 1,
+    "explanation": "Rút gọn mệnh đề quan hệ bị động: which is sent → sent (past participle làm tính ngữ sau danh từ)."
+  },
+  {
+    "id": 63,
+    "question": "The headquarters building has undergone significant ________ to accommodate the growing workforce.",
+    "options": ["renovation", "innovation", "motivation", "deviation"],
+    "answer": 0,
+    "explanation": "'Renovation' = cải tạo, tu sửa công trình. Innovation = đổi mới sáng tạo, deviation = sai lệch."
+  },
+  {
+    "id": 64,
+    "question": "________ the team had submitted the report, the client requested several major amendments.",
+    "options": ["Once", "Until", "Unless", "Before"],
+    "answer": 0,
+    "explanation": "'Once' = ngay khi, sau khi (diễn tả trình tự). Ở đây: sau khi nộp báo cáo thì khách hàng mới yêu cầu sửa."
+  },
+  {
+    "id": 65,
+    "question": "The senior vice president was ________ for his outstanding contributions to the company's global expansion strategy.",
+    "options": ["commended", "commanded", "commemorated", "commissioned"],
+    "answer": 0,
+    "explanation": "'Commended for' = được khen ngợi, tuyên dương vì điều gì. Commanded = ra lệnh, commissioned = được giao nhiệm vụ."
+  },
+  {
+    "id": 66,
+    "question": "The IT department is responsible for ________ that all software licenses are renewed before expiration.",
+    "options": ["ensure", "ensured", "ensuring", "to ensure"],
+    "answer": 2,
+    "explanation": "'Responsible for + V-ing'. Sau giới từ 'for' luôn dùng danh động từ (gerund)."
+  },
+  {
+    "id": 67,
+    "question": "The labor dispute ________ over several months before a settlement was finally reached.",
+    "options": ["dragged on", "broke out", "turned up", "called off"],
+    "answer": 0,
+    "explanation": "'Drag on' = kéo dài lê thê (thường dùng cho tranh chấp, đàm phán). 'Broke out' = bùng phát, 'called off' = hủy bỏ."
+  },
+  {
+    "id": 68,
+    "question": "The terms of the lease ________ that tenants are liable for any structural damage caused during occupancy.",
+    "options": ["stipulate", "deliberate", "reiterate", "implicate"],
+    "answer": 0,
+    "explanation": "'Stipulate' = quy định cụ thể trong hợp đồng/văn bản pháp lý. Đây là động từ đặc trưng dùng với 'terms/contract/agreement'."
+  },
+  {
+    "id": 69,
+    "question": "Having been ________ to senior partner, Ms. Nguyen now oversees all client relations in the Asia-Pacific region.",
+    "options": ["promoted", "demoted", "allocated", "affiliated"],
+    "answer": 0,
+    "explanation": "'Having been promoted to' = sau khi được thăng chức lên (perfect passive participle). Phù hợp ngữ cảnh thăng tiến."
+  },
+  {
+    "id": 70,
+    "question": "The new environmental regulations will have a far-reaching ________ on manufacturing practices industry-wide.",
+    "options": ["implication", "replication", "duplication", "complication"],
+    "answer": 0,
+    "explanation": "'Far-reaching implication' = hệ quả/tác động sâu rộng. 'Implication on/for' là collocate trang trọng hay dùng."
+  },
+  {
+    "id": 71,
+    "question": "The board expects all senior executives to ________ the company's code of conduct without exception.",
+    "options": ["adhere to", "account for", "abstain from", "amount to"],
+    "answer": 0,
+    "explanation": "'Adhere to' = tuân thủ, chấp hành (quy tắc, chính sách). Cấu trúc phrasal verb cố định."
+  },
+  {
+    "id": 72,
+    "question": "The quarterly results were ________ better than what analysts had predicted at the beginning of the year.",
+    "options": ["considerably", "considerately", "considerably", "conditionally"],
+    "answer": 0,
+    "explanation": "'Considerably better' = tốt hơn đáng kể. Trạng từ 'considerably' bổ nghĩa cho tính từ so sánh."
+  },
+  {
+    "id": 73,
+    "question": "All employees ________ to attend the mandatory safety training session scheduled for next Tuesday.",
+    "options": ["require", "are required", "requiring", "required"],
+    "answer": 1,
+    "explanation": "Câu bị động: 'All employees are required to + V'. 'Require' ở dạng chủ động không phù hợp cú pháp câu này."
+  },
+  {
+    "id": 74,
+    "question": "The figures presented in the annual report are ________ with those submitted to the regulatory authority.",
+    "options": ["consistent", "persistent", "resistant", "insistent"],
+    "answer": 0,
+    "explanation": "'Consistent with' = nhất quán với, phù hợp với. Đây là collocate rất phổ biến trong văn phong kinh doanh/báo cáo."
+  },
+  {
+    "id": 75,
+    "question": "________ measures were taken by the management team, the factory still failed to meet its output targets.",
+    "options": ["Whatever", "However", "Whenever", "Wherever"],
+    "answer": 0,
+    "explanation": "'Whatever measures were taken' = dù bất kỳ biện pháp nào được thực hiện. 'Whatever' = bất kể cái gì (đứng đầu nhượng bộ)."
+  },
+  {
+    "id": 76,
+    "question": "The company's robust performance this quarter can largely be ________ to its aggressive expansion into new markets.",
+    "options": ["attributed", "contributed", "distributed", "substituted"],
+    "answer": 0,
+    "explanation": "'Be attributed to' = được quy cho, do nguyên nhân gì. Cấu trúc cố định: attribute A to B."
+  },
+  {
+    "id": 77,
+    "question": "The operations manual was written in a ________ manner so that even new employees could follow the procedures.",
+    "options": ["coherent", "incoherent", "inherent", "adherent"],
+    "answer": 0,
+    "explanation": "'Coherent' = mạch lạc, rõ ràng, dễ hiểu. Incoherent = rối rắm, inherent = vốn có/cố hữu."
+  },
+  {
+    "id": 78,
+    "question": "The director insisted on ________ the budget proposal himself before it was sent to the finance committee.",
+    "options": ["review", "reviewed", "reviewing", "to review"],
+    "answer": 2,
+    "explanation": "'Insist on + V-ing'. Sau giới từ 'on' luôn dùng gerund."
+  },
+  {
+    "id": 79,
+    "question": "________ to popular belief, the merger did not result in significant job losses across the organization.",
+    "options": ["Contrary", "Similar", "Equivalent", "Relevant"],
+    "answer": 0,
+    "explanation": "'Contrary to popular belief' = trái với niềm tin phổ biến. Cụm giới từ cố định, hay xuất hiện đầu câu."
+  },
+  {
+    "id": 80,
+    "question": "The new CEO's ________ leadership style has been credited with revitalizing the company's corporate culture.",
+    "options": ["transformative", "informative", "normative", "formative"],
+    "answer": 0,
+    "explanation": "'Transformative leadership' = phong cách lãnh đạo mang tính biến đổi/cách mạng hóa. Từ vựng đặc trưng lĩnh vực quản trị."
+  },
+  {
+    "id": 81,
+    "question": "The proposal was ________ on the grounds that it lacked sufficient evidence to support its financial projections.",
+    "options": ["rejected", "objected", "projected", "subjected"],
+    "answer": 0,
+    "explanation": "'Rejected on the grounds that' = bị từ chối với lý do là. 'Objected' không đi theo cấu trúc bị động trực tiếp như vậy."
+  },
+  {
+    "id": 82,
+    "question": "The new software platform is designed to be ________ with all existing legacy systems currently in use.",
+    "options": ["compatible", "comparable", "compilable", "compliable"],
+    "answer": 0,
+    "explanation": "'Compatible with' = tương thích với. Collocate kỹ thuật phổ biến. Comparable = có thể so sánh được."
+  },
+  {
+    "id": 83,
+    "question": "Barely ________ to her new role when the department faced an unexpected funding shortfall.",
+    "options": ["she had adjusted", "had she adjusted", "she adjusted", "did she adjust"],
+    "answer": 1,
+    "explanation": "Đảo ngữ với 'Barely': had + S + PII (quá khứ hoàn thành đảo). Tương tự cấu trúc với 'Scarcely/Hardly'."
+  },
+  {
+    "id": 84,
+    "question": "The committee will ________ the results of the feasibility study before approving any capital expenditure.",
+    "options": ["scrutinize", "publicize", "memorize", "summarize"],
+    "answer": 0,
+    "explanation": "'Scrutinize' = xem xét kỹ lưỡng, rà soát. Đặc biệt phù hợp khi nói về kết quả nghiên cứu/báo cáo trước khi phê duyệt."
+  },
+  {
+    "id": 85,
+    "question": "The memorandum clearly states that any modifications to the agreement must be made in ________.",
+    "options": ["writing", "written", "write", "wrote"],
+    "answer": 0,
+    "explanation": "'In writing' = bằng văn bản. Cụm giới từ cố định rất phổ biến trong văn bản pháp lý/kinh doanh."
+  },
+  {
+    "id": 86,
+    "question": "The logistics team has ________ that all shipments will be dispatched within 48 hours of order confirmation.",
+    "options": ["assured", "insured", "ensured", "secured"],
+    "answer": 2,
+    "explanation": "'Ensure that + clause' = đảm bảo rằng (việc gì xảy ra). 'Assure' đi với tân ngữ người: assure someone that..."
+  },
+  {
+    "id": 87,
+    "question": "The regional director's proposal was ________ supported by data collected over a three-year period.",
+    "options": ["substantively", "substantially", "subjectively", "subsequently"],
+    "answer": 1,
+    "explanation": "'Substantially supported' = được hỗ trợ đáng kể/chắc chắn bởi dữ liệu. 'Substantially' = đáng kể, ở mức đáng kể."
+  },
+  {
+    "id": 88,
+    "question": "The shareholders were given ________ notice before the extraordinary general meeting was convened.",
+    "options": ["adequate", "ambiguous", "adverse", "adamant"],
+    "answer": 0,
+    "explanation": "'Adequate notice' = thông báo đầy đủ/đúng hạn. Collocate pháp lý phổ biến: adequate notice/time/resources."
+  },
+  {
+    "id": 89,
+    "question": "The economic outlook remains ________, with analysts divided on whether a recession is imminent.",
+    "options": ["uncertain", "definitive", "favorable", "optimistic"],
+    "answer": 0,
+    "explanation": "'Uncertain' = không chắc chắn, mơ hồ. Phù hợp nhất khi các chuyên gia bất đồng về triển vọng kinh tế."
+  },
+  {
+    "id": 90,
+    "question": "Mr. Park was appointed to ________ the newly established task force on digital transformation.",
+    "options": ["head", "lead up", "overlook", "chair over"],
+    "answer": 0,
+    "explanation": "'Appointed to head' = được bổ nhiệm để lãnh đạo/đứng đầu. 'Overlook' = bỏ sót hoặc nhìn xuống (không có nghĩa lãnh đạo)."
+  },
+  {
+    "id": 91,
+    "question": "The decision to relocate the headquarters was not taken ________, as it involved significant financial and logistical challenges.",
+    "options": ["lightly", "lately", "largely", "likely"],
+    "answer": 0,
+    "explanation": "'Not taken lightly' = không được quyết định một cách dễ dàng/hấp tấp. Thành ngữ quen thuộc trong văn phong trang trọng."
+  },
+  {
+    "id": 92,
+    "question": "The interns are expected to ________ the tasks assigned to them with the same level of professionalism as senior staff.",
+    "options": ["carry out", "carry on", "carry over", "carry away"],
+    "answer": 0,
+    "explanation": "'Carry out tasks' = thực hiện nhiệm vụ. 'Carry on' = tiếp tục, 'carry over' = chuyển tiếp, 'carry away' = bị cuốn đi."
+  },
+  {
+    "id": 93,
+    "question": "The report was ________ in its assessment of the environmental impact of the proposed construction project.",
+    "options": ["comprehensive", "apprehensive", "reprehensible", "incomprehensible"],
+    "answer": 0,
+    "explanation": "'Comprehensive' = toàn diện, đầy đủ. Apprehensive = lo lắng, reprehensible = đáng chê trách, incomprehensible = khó hiểu."
+  },
+  {
+    "id": 94,
+    "question": "Given the ________ nature of the data, all personnel are required to sign a non-disclosure agreement.",
+    "options": ["sensitive", "sensible", "sensory", "sentimental"],
+    "answer": 0,
+    "explanation": "'Sensitive data/information' = dữ liệu nhạy cảm. Collocate phổ biến trong môi trường doanh nghiệp và pháp lý."
+  },
+  {
+    "id": 95,
+    "question": "Sales have remained ________ despite the highly competitive nature of the current market environment.",
+    "options": ["buoyant", "redundant", "stagnant", "dormant"],
+    "answer": 0,
+    "explanation": "'Buoyant' = sôi nổi, mạnh mẽ (thường dùng cho thị trường, doanh số). Stagnant/dormant = trì trệ, không hoạt động."
+  },
+  {
+    "id": 96,
+    "question": "The contract ________ that payment must be received within 30 days of invoice issuance.",
+    "options": ["specifies", "implies", "suggests", "advises"],
+    "answer": 0,
+    "explanation": "'Specifies' = quy định cụ thể, ghi rõ. Trong hợp đồng dùng 'specify' để nêu điều kiện chính xác."
+  },
+  {
+    "id": 97,
+    "question": "________ approved by the board, the budget allocation will remain fixed until the next fiscal review.",
+    "options": ["Once", "While", "Despite", "So that"],
+    "answer": 0,
+    "explanation": "'Once approved' = rút gọn của 'Once it is approved' — rút gọn mệnh đề trạng ngữ cùng chủ thể."
+  },
+  {
+    "id": 98,
+    "question": "The company is ________ pursuing opportunities to diversify its revenue streams beyond its core business.",
+    "options": ["actively", "acutely", "aptly", "avidly"],
+    "answer": 0,
+    "explanation": "'Actively pursuing' = tích cực theo đuổi (cơ hội). Collocate kinh doanh phổ biến nhất trong bốn lựa chọn."
+  },
+  {
+    "id": 99,
+    "question": "The findings of the independent review were at ________ with the conclusions drawn by the internal audit team.",
+    "options": ["odds", "risk", "stake", "hand"],
+    "answer": 0,
+    "explanation": "'At odds with' = mâu thuẫn với, trái ngược với. Thành ngữ cố định: be at odds with something/someone."
+  },
+  {
+    "id": 100,
+    "question": "The management team is looking to ________ cost-cutting measures without compromising the quality of services offered.",
+    "options": ["implement", "imply", "implicate", "impose"],
+    "answer": 0,
+    "explanation": "'Implement measures' = thực thi/triển khai các biện pháp. Collocate hành chính kinh doanh cực kỳ phổ biến."
+  }
+]

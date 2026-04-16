@@ -7,7 +7,18 @@ export default function Auth() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [isSignUp, setIsSignUp] = useState(false);
+  const [rememberMe, setRememberMe] = useState(false);
   const [message, setMessage] = useState<{type: 'error' | 'success', text: string} | null>(null);
+
+  React.useEffect(() => {
+    const savedEmail = localStorage.getItem('savedEmail');
+    const savedPassword = localStorage.getItem('savedPassword');
+    if (savedEmail && savedPassword) {
+      setEmail(savedEmail);
+      setPassword(savedPassword);
+      setRememberMe(true);
+    }
+  }, []);
 
   const handleAuth = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -20,8 +31,18 @@ export default function Auth() {
 
     if (error) {
       setMessage({ type: 'error', text: error.message });
-    } else if (isSignUp) {
-      setMessage({ type: 'success', text: 'Success! Please check your email for the confirmation link.' });
+    } else {
+      if (!isSignUp) {
+        if (rememberMe) {
+          localStorage.setItem('savedEmail', email);
+          localStorage.setItem('savedPassword', password);
+        } else {
+          localStorage.removeItem('savedEmail');
+          localStorage.removeItem('savedPassword');
+        }
+      } else {
+        setMessage({ type: 'success', text: 'Success! Please check your email for the confirmation link.' });
+      }
     }
     setLoading(false);
   };
@@ -71,6 +92,19 @@ export default function Auth() {
               />
               <Lock size={18} style={{ position: 'absolute', left: '12px', top: '14px', color: 'var(--text-muted)' }} />
             </div>
+          </div>
+
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginTop: '-4px' }}>
+            <input 
+              type="checkbox" 
+              id="remember" 
+              checked={rememberMe}
+              onChange={(e) => setRememberMe(e.target.checked)}
+              style={{ cursor: 'pointer', width: '16px', height: '16px' }}
+            />
+            <label htmlFor="remember" style={{ cursor: 'pointer', fontSize: '14px', color: 'var(--text-muted)' }}>
+              Nhớ mật khẩu (Remember me)
+            </label>
           </div>
 
           <button className="btn-primary" type="submit" disabled={loading} style={{ marginTop: '8px', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '8px' }}>

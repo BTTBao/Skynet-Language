@@ -4,6 +4,7 @@ import { supabase } from './lib/supabase';
 import Auth from './pages/Auth';
 import Dashboard from './pages/Dashboard';
 import DailyGame from './pages/DailyGame';
+import ToeicPart5 from './pages/ToeicPart5';
 import { BookOpen, Gamepad2, LogOut } from 'lucide-react';
 
 function App() {
@@ -38,6 +39,7 @@ function App() {
             <nav className="nav-links">
               <Link to="/" className="btn-secondary">Dictionary</Link>
               <Link to="/game" className="btn-secondary"><Gamepad2 size={16} style={{display: 'inline', marginBottom: '-2px'}}/> Daily Game</Link>
+              <Link to="/toeic" className="btn-secondary"><BookOpen size={16} style={{display: 'inline', marginBottom: '-2px'}}/> TOEIC Part 5</Link>
               <button 
                 onClick={() => supabase.auth.signOut()} 
                 className="btn-secondary"
@@ -61,6 +63,10 @@ function App() {
           <Route 
             path="/game" 
             element={session ? <DailyGame session={session} /> : <Navigate to="/auth" replace />} 
+          />
+          <Route 
+            path="/toeic" 
+            element={session ? <ToeicPart5 /> : <Navigate to="/auth" replace />} 
           />
         </Routes>
       </div>
