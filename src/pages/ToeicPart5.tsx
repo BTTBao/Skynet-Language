@@ -44,8 +44,12 @@ export default function ToeicPart5() {
     let count = numQuestions;
     if (count > allQuestions.length) count = allQuestions.length;
 
-    // Shuffle array
-    const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
+    // Shuffle array (Fisher-Yates)
+    const shuffled = [...allQuestions];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
     const selected = shuffled.slice(0, count);
     
     setActiveQuestions(selected);

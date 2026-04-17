@@ -9,6 +9,15 @@ export default function DailyGame({ session }: { session: any }) {
   const [mode, setMode] = useState<GameMode>('select');
   const DAILY_LIMIT = 5;
 
+  const shuffleArray = <T,>(array: T[]): T[] => {
+    const newArray = [...array];
+    for (let i = newArray.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+    }
+    return newArray;
+  };
+
   // Typing Game State
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answer, setAnswer] = useState('');
@@ -42,7 +51,7 @@ export default function DailyGame({ session }: { session: any }) {
     }
     
     if (data && data.length > 0) {
-      const shuffled = data.sort(() => 0.5 - Math.random());
+      const shuffled = shuffleArray(data);
       setWords(shuffled.slice(0, DAILY_LIMIT));
     }
   };
@@ -65,8 +74,8 @@ export default function DailyGame({ session }: { session: any }) {
 
   const initMatchMode = () => {
     if (words.length < 2) return alert("You need at least 2 words to play match game!");
-    const left = [...words].sort(() => 0.5 - Math.random()).map(w => ({ id: w.id, text: w.english }));
-    const right = [...words].sort(() => 0.5 - Math.random()).map(w => ({ id: w.id, text: w.vietnamese }));
+    const left = shuffleArray(words).map(w => ({ id: w.id, text: w.english }));
+    const right = shuffleArray(words).map(w => ({ id: w.id, text: w.vietnamese }));
     setLeftItems(left);
     setRightItems(right);
     setSelectedLeft(null);
